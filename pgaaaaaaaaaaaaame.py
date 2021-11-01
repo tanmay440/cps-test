@@ -1,3 +1,4 @@
+import buttons
 import pygame
 win = pygame.display.set_mode((700, 700))
 run = True
